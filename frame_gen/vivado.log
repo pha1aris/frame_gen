@@ -1,0 +1,43 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Thu Oct  9 15:06:45 2025
+# Process ID         : 12116
+# Current directory  : C:/Users/PC/Desktop/fps/frame_gen/frame_gen
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent18524 C:\Users\PC\Desktop\fps\frame_gen\frame_gen\frame_gen.xpr
+# Log file           : C:/Users/PC/Desktop/fps/frame_gen/frame_gen/vivado.log
+# Journal file       : C:/Users/PC/Desktop/fps/frame_gen/frame_gen\vivado.jou
+# Running On         : FSO-A
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 19045
+# Processor Detail   : 13th Gen Intel(R) Core(TM) i9-13900K
+# CPU Frequency      : 2995 MHz
+# CPU Physical cores : 24
+# CPU Logical cores  : 32
+# Host memory        : 68263 MB
+# Swap memory        : 10200 MB
+# Total Virtual      : 78464 MB
+# Available Virtual  : 61401 MB
+#-----------------------------------------------------------
+start_gui
+Sourcing tcl script 'D:/2024_2/Vivado/2024.2/scripts/Vivado_init.tcl'
+open_project C:/Users/PC/Desktop/fps/frame_gen/frame_gen/frame_gen.xpr
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:zcu208ld:part0:2.0 available at D:/2024_2/Vivado/2024.2/data/xhub/boards/XilinxBoardStore/boards/Xilinx/zcu208ld/production/2.0/board.xml as part xczu58dr-fsvg1517-2-i specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:zcu216ld:part0:2.0 available at D:/2024_2/Vivado/2024.2/data/xhub/boards/XilinxBoardStore/boards/Xilinx/zcu216ld/production/2.0/board.xml as part xczu59dr-ffvf1760-2-i specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:zcu670ld:part0:1.0 available at D:/2024_2/Vivado/2024.2/data/xhub/boards/XilinxBoardStore/boards/Xilinx/zcu670ld/1.0/board.xml as part xczu57dr-fsve1156-2-i specified in board_part file is either invalid or not available
+INFO: [filemgmt 56-3] Default IP Output Path : Could not find the directory 'C:/Users/PC/Desktop/fps/frame_gen/frame_gen/frame_gen.gen/sources_1'.
+Scanning sources...
+Finished scanning sources
+INFO: [Common 17-41] Interrupt caught. Command should exit soon.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2338] Canceling the changes to the IP catalog. Reverting the catalog back to its previous state.
+INFO: [IP_Flow 19-2340] The IP catalog has been returned to its previous state.
+INFO: [Common 17-344] 'open_project' was cancelled
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/2024_2/Vivado/2024.2/data/ip'.
+exit
+INFO: [Common 17-206] Exiting Vivado at Thu Oct  9 15:07:02 2025...

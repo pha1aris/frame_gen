@@ -1,0 +1,2 @@
+sync_fifo_8w_8r.v,verilog,xil_defaultlib,../../../../frame_gen.gen/sources_1/ip/sync_fifo_8w_8r/sim/sync_fifo_8w_8r.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v
